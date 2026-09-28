@@ -16,10 +16,10 @@
     "README.md": true,
     "build-a-timestamp-microservice": true,
     "build-a-web-server": true,
-    "learn-nodejs-repl": false,
+    "learn-nodejs-repl": true,
     "build-a-case-converter": true,
     "build-a-prime-number-checker-module": true,
-    "build-a-file-processor": true,
+    "build-a-file-processor": false,
     "build-a-family-movie-watchlist-api": true,
     "build-a-random-joke-app": true,
     "build-a-personal-profile-app": true,
@@ -42,7 +42,7 @@
       "open": true,
       "showLoader": true,
       "timeout": 4000,
-      "url": "https://bookish-enigma-gjrj494qg7xfww9w-8080.app.github.dev"
+      "url": "http://localhost:8080"
     }
   ],
   "terminal.integrated.defaultProfile.linux": "bash",
